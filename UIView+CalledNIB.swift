@@ -1,6 +1,5 @@
 //
 //  UIView+Extension.swift
-//  Pregnant Story
 //
 //  Created by Wisnu Sanjaya on 2/15/17.
 //  Copyright © 2017 Sanjaya Wisnu. All rights reserved.
